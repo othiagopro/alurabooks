@@ -33,6 +33,11 @@
 
 .container_botao:checked ~ .lista-menu{
     display: block;
+
+}
+
+.container_botao{
+    display: none;
 }
 
 .lista-menu_titulo,
