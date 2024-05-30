@@ -99,4 +99,17 @@
     .container_imagem-transparent{
         display: none;
     }
+
+    .cabecalho_menu-hamburguer{
+        display: none;
+    }
+
+    .opcoes_botao:checked ~ .lista-menu {
+        display: block;
+        width: auto;
+    }
+
+    .opcoes_botao{
+        display: none;
+    }
 }
