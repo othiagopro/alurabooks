@@ -1,0 +1,8 @@
+.rodape_texto{
+    padding: 1em;
+}
+
+.rodape{
+    border-top: 1px solid var(--preto);
+    background-color: var(--branco);
+}
