@@ -47,6 +47,10 @@
     margin: 0.5em 0;
 }
 
+.descricao_estrelas{
+    margin: 0.5em 0 ;
+}
+
 .descricao_texto{
     font-size: 14px;
     font-weight: 400;
